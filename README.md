@@ -42,8 +42,8 @@
    - Загрузите себе на устройство следующие модули: 
      - [`Zygisk Next`](https://github.com/Dr-TSNG/ZygiskNext/releases)
      - [`WAHideBootloader`](https://github.com/thelordalex/WAHideBootloader/releases)
-     - [`TSupport Advance`](https://t.me/CitraIntegrityTrick)
      - [`TrickyStore`](https://github.com/5ec1cff/TrickyStore/releases)
+     - [`TSupport Advance`](https://t.me/CitraIntegrityTrick)
      - [`Shamiko`](https://github.com/LSPosed/LSPosed.github.io/releases)
      - [`Play Integrity Fix`](https://mmrl.dev/repository/aptoftisk/playintegrityfix)
      - [`LSPosed v1.10.1`](https://github.com/JingMatrix/LSPosed/releases)
