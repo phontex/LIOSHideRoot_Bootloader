@@ -43,7 +43,7 @@
      - [`Zygisk Next`](https://github.com/Dr-TSNG/ZygiskNext/releases)
      - [`WAHideBootloader`](https://github.com/thelordalex/WAHideBootloader/releases)
      - [`TrickyStore`](https://github.com/5ec1cff/TrickyStore/releases)
-     - [`TSupport Advance`](https://t.me/CitraIntegrityTrick)
+     - [`TSupport Advance`](https://www.dropbox.com/scl/fi/vaqw80238bp5d7xdvn9kg/TSupport-Advance.zip?rlkey=sx3dl2wea0782alndqj9sz8qi&st=czz1svwe&dl=1)
      - [`Shamiko`](https://github.com/LSPosed/LSPosed.github.io/releases)
      - [`Play Integrity Fix`](https://mmrl.dev/repository/aptoftisk/playintegrityfix)
      - [`LSPosed v1.10.1`](https://github.com/JingMatrix/LSPosed/releases)
